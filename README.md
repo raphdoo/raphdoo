@@ -1,6 +1,6 @@
 # Hello there; My name is Rapheal 👋🏾
 
-I'm a Software Engineer and Content Creator. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build useful [open-source projects](https://github.com/BolajiAyodeji), speak at some meetups/conferences, build technical communities...
+I'm a Software Engineer and Content Creator. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others.
 
 **Here's a quick summary about me**:
 
