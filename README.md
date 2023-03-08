@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Software Engineering at Altschool Africa, Nigeria.
 - 💼 &nbsp; Currently seeking oppurtunities.
 - 🌱 &nbsp; Learning more about Server-side rendering and Machine Learning technology.
